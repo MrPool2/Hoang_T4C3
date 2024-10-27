@@ -14,6 +14,11 @@ Xin chào! Tôi là Phạm Hữu Hoàng – hiện đang là sinh viên tại tr
   - Phan Trọng Tín - Dev
   - Phan Kiến Năng - Dev
   - Nguyễn Duy Tài - Dev
+-**Vai trò từng thành phần**:
+  -Dev: Đảm nhiệm việc thiết kế, phát triển và bảo trì các ứng dụng phần mềm, tập trung vào việc tối ưu hóa hiệu suất, tính bảo mật và độ ổn định của hệ thống. Sử 
+dụng các công nghệ mới nhất và các quy trình phát triển hiện đại để đảm bảo rằng sản phẩm cuối cùng không chỉ đáp ứng nhu cầu của người dùng mà còn có khả năng mở rộng trong tương lai. Với tư duy logic và khả năng giải quyết vấn đề và luôn tìm cách cung cấp các giải pháp kỹ thuật tốt nhất cho dự án.
+  -Product Owner: chịu trách nhiệm định hướng sản phẩm và tối ưu hóa giá trị mà nhóm phát triển tạo ra. Họ quản lý và sắp xếp thứ tự ưu tiên cho Product Backlog (danh sách tính năng và công việc cần làm), làm việc chặt chẽ với các bên liên quan để đảm bảo rằng các yêu cầu của sản phẩm rõ ràng và được truyền tải đầy đủ đến nhóm phát triển. Product Owner cũng là người đưa ra quyết định cuối cùng về các tính năng và công năng của sản phẩm, đảm bảo rằng sản phẩm đáp ứng nhu cầu của khách hàng và mục tiêu kinh doanh.
+  -Scrum Master: chịu trách nhiệm đảm bảo nhóm tuân thủ các nguyên tắc và quy trình Scrum. Họ hỗ trợ nhóm phát triển loại bỏ các trở ngại (impediments), đảm bảo các buổi họp Scrum (như daily stand-ups, sprint reviews) diễn ra hiệu quả, và tạo điều kiện để nhóm duy trì nhịp độ làm việc ổn định. Scrum Master không tham gia vào việc phát triển phần mềm mà đóng vai trò hướng dẫn, giúp đội ngũ tập trung vào công việc và cải tiến liên tục.
 
 Chúng tôi là một nhóm sinh viên với tinh thần ham học hỏi và yêu thích khám phá công nghệ. Cùng nhau, chúng tôi đã thực hiện một số đề tài thú vị trong 2 năm học vừa qua.
 
